@@ -1,6 +1,6 @@
 # Curso Python NetAcad
 
-# Creador
+# Alumno
 **Pedro Uriel Perez Monzon**  
 **Grupo: GDS0643**  
 **Num. Control: 1223100428**  
