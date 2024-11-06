@@ -5,7 +5,7 @@
 
 Sistema automatizado para el control y monitoreo de un invernadero utilizando ESP32 y sensores de temperatura y humedad.
 
-📊 Conexiónes
+📊 Imagen de Conexiónes
 
 
 https://imgur.com/JLGdfWy
