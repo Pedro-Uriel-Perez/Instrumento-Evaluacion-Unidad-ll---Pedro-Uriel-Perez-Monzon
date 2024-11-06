@@ -10,6 +10,7 @@
 descripciones breves para cada ejercicio.
 poner link del video
 Por ejemplo
+
 https://drive.google.com/drive/folders/1cOKqAnlwipsk2s4-tD7D_2kBckIQaIra?usp=sharing
 
 
@@ -18,32 +19,32 @@ https://drive.google.com/drive/folders/1cOKqAnlwipsk2s4-tD7D_2kBckIQaIra?usp=sha
 descripciones breves para cada ejercicio.
 poner link del video
 
-## Ejercicio 1
+## Ejercicio 3
 
 descripciones breves para cada ejercicio.
 poner link del video
 
-## Ejercicio 1
+## Ejercicio 4
 
 descripciones breves para cada ejercicio.
 poner link del video
 
-## Ejercicio 1
+## Ejercicio 5
 
 descripciones breves para cada ejercicio.
 poner link del video
 
-## Ejercicio 1
+## Ejercicio 6
 
 descripciones breves para cada ejercicio.
 poner link del video
 
-## Ejercicio 1
+## Ejercicio 7
 
 descripciones breves para cada ejercicio.
 poner link del video
 
-## Ejercicio 1
+## Ejercicio 8
 
 descripciones breves para cada ejercicio.
 poner link del video
