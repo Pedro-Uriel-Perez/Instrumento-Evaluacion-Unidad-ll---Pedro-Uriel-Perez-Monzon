@@ -10,7 +10,8 @@ Sistema automatizado para el control y monitoreo de un invernadero utilizando ES
 📊 Imagen de Conexiónes
 
 
-https://imgur.com/JLGdfWy
+<img src="https://github.com/user-attachments/assets/d7186407-9d3a-4684-a795-2180c99acbd6" width="600" alt="Examen Módulo 1"/>
+
 
 
 
