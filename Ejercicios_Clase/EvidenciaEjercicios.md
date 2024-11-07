@@ -17,7 +17,7 @@ https://drive.google.com/drive/u/0/folders/1VffE4DcR70RlY6H-WSckrnQmxP5_Xey2
 
 ## Ejercicio - Sensor 
 
-Para este ejercicio usamos el sensor de proximidad y tres lesd, los cuales nos indicaban que tan lejos o cerca nos encontrabamos, dependiendo de eso, cambianban de color
+Para este ejercicio usamos el sensor de proximidad y tres lesd, los cuales nos indicaban que tan lejos o cerca nos encontrabamos, dependiendo de eso, cambiaban de color
 
 https://drive.google.com/drive/u/0/folders/1rnbbBAbYowHJiD-nSfxj_McHLoX2lF6H
 
