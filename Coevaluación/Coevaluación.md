@@ -5,19 +5,16 @@
 
 ## Código:
 
-Buena estructura y organización
-Implementación clara en los codigos
+Buena estructura, organización e implementación clara en los codigos
 
 
 ## Circuito:
 
-Conexiones limpias y organizadas
-Uso apropiado de componentes
+Conexiones limpias y organizadas y uso apropiado de componentes
 
 ## Documentación:
 
-Explicaciones claras del funcionamiento de los codigos
-Videos demostrativos claro
+Explicaciones claras del funcionamiento de los codigos y videos demostrativos claros
 
 ### 🔧 Áreas de Mejora
 
@@ -28,8 +25,7 @@ Optimizar el tiempo de en las actividades
 
 ## Recomendaciones de Documentación:
 
-Agregar más comentarios en secciones complejas
-Expandir la explicación de la configuración de cada codigo
+Agregar más comentarios en secciones complejas o expandir la explicación de la configuración de cada codigo
 
 
 ### 💭 Conclusión
