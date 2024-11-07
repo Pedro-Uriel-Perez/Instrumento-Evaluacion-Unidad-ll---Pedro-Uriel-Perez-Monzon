@@ -29,5 +29,5 @@ Agregar más comentarios en secciones complejas o expandir la explicación de la
 
 
 ### 💭 Conclusión
-En resumen mi compañero trabaja bien, pero se distrae facilmente, haciendo un poco tardado el proceso de realizar las actividades, pero en gemnerar hace bien las cosas.
+En resumen mi compañero trabaja bien, pero se distrae facilmente, haciendo un poco tardado el proceso de realizar las actividades, pero en general hace bien las cosas.
 
