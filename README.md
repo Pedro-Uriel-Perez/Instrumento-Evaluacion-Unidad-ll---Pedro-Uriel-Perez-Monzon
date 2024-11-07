@@ -1,4 +1,4 @@
-# Instrumento Evaluacion Unidad ll - Pedro Uriel Perez Monzon GDS0643
+# Instrumento Evaluación Unidad ll - Pedro Uriel Perez Monzon GDS0643
 
 ## 👨‍💻 Información
 - **Alumno:** Pedro Uriel Pérez Monzón
