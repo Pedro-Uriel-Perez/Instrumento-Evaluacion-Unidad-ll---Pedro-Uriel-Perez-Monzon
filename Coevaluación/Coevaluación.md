@@ -1,17 +1,7 @@
-# Coevaluación
 
-Compañero - Miguel Angel Alvares Ibarra
+## Coevaluación del trabajo de mi Compañero - Miguel Angel Alvares Ibarra
 
-### ✨ Aspectos Destacados
-1. **Funcionalidad**
-   - El sistema responde rápidamente a cambios de temperatura
-   - El código está bien estructurado en funciones
-   - El circuito está ordenado y bien conectado
-# 📋 Coevaluación
-
-## Evaluación del trabajo de [Nombre del Compañero]
-
-### ✨ Aspectos Destacados
+###  Aspectos Destacados
 1. **Funcionalidad**
    - [Menciona qué funciona bien en su proyecto]
    - [Describe características positivas del código]
