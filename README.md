@@ -1,6 +1,6 @@
 # Instrumento-Evaluacion-Unidad-ll---Pedro-Uriel-Perez-Monzon GDS0643
 
-# Ejercio Prectico Integral - Sistema de Alerta invernader
+# Ejercio Prectico Integral - Sistema de Alerta invernadero
 
 # Ejercicios Practicos de clase
 
