@@ -5,7 +5,7 @@
 
 ## Código:
 
-Tiene una buena estructura y organización al implementación los codigos
+Tiene una buena estructura y organización al implementar los codigos
 
 ## Circuito:
 
