@@ -5,12 +5,11 @@
 
 ## Código:
 
-Tiene una buena estructura, organización al implementación los codigos
-
+Tiene una buena estructura y organización al implementación los codigos
 
 ## Circuito:
 
-En las conexiones las organiza bien y usa los componentes necesarios
+En las conexiones las organiza bien y usa los componentes necesarios.
 
 ## Documentación:
 
@@ -20,7 +19,7 @@ Explicaciones claras del funcionamiento de los codigos y videos demostrativos cl
 
 ## Sugerencias Técnicas:
 
-que optimize el tiempo de en las actividades planeadas
+que optimize el tiempo de en las actividades planeadas.
 
 
 ### 💭 Conclusión
