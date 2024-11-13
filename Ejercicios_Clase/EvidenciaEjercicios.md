@@ -31,7 +31,7 @@ En este ejercicio usamos la matriz para mostrar un nombre con colores de la band
 
 https://drive.google.com/drive/u/0/folders/1rdLc5jxPPbScn-UrtqzsNSUSqWp3I3kL
 
-## Ejercicio - Matriz Max7219 con Sensor (Arduino y Python)
+## Ejercicio - Matriz Max7219 con Sensor (Python)
 
 En este ejercicio usamos la matriz MAx7219 junto a un sensor, para que cuando nos acercaramos al sensor, mostrara en la pantalla la distancia en que estabamos
 
@@ -43,7 +43,7 @@ Para este ejercicio usamos el motor y le pusimos una secuendia para que se pudie
 
 https://drive.google.com/drive/u/0/folders/16a2WCFEVcHl3Q5Q-XyTP9uLZyhCEYD5F
 
-## Ejercicio - Joystick (Arduino y Python)
+## Ejercicio - Joystick (Python)
 
 En este ejercicio usamos un Joystick para controlar un led RGB que dependiendo la posicion cambiara de color.
 https://drive.google.com/drive/u/0/folders/135PEy3Kn5NZOQhlJxZWkCuIXUJHbQ3XS
