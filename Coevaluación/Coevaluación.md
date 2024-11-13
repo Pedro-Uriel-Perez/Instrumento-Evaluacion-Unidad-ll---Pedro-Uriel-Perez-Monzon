@@ -5,12 +5,12 @@
 
 ## Código:
 
-Buena estructura, organización e implementación clara en los codigos
+Tiene una buena estructura, organización al implementación los codigos
 
 
 ## Circuito:
 
-Conexiones limpias y organizadas y uso apropiado de componentes
+En las conexiones las organiza bien y usa los componentes necesarios
 
 ## Documentación:
 
@@ -20,12 +20,7 @@ Explicaciones claras del funcionamiento de los codigos y videos demostrativos cl
 
 ## Sugerencias Técnicas:
 
-Optimizar el tiempo de en las actividades
-
-
-## Recomendaciones de Documentación:
-
-Agregar más comentarios en secciones complejas o expandir la explicación de la configuración de cada codigo
+que optimize el tiempo de en las actividades planeadas
 
 
 ### 💭 Conclusión
