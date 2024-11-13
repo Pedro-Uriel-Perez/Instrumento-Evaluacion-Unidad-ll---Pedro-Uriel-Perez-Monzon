@@ -11,9 +11,6 @@ Tiene una buena estructura y organización al implementar los codigos
 
 En las conexiones las organiza bien y usa los componentes necesarios.
 
-## Documentación:
-
-Explicaciones son claras paraa funcionamiento de los codigos y videos demostrativos son buenos
 
 ### 🔧 Áreas de Mejora
 
