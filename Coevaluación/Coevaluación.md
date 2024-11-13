@@ -19,7 +19,7 @@ Explicaciones son claras paraa funcionamiento de los codigos y videos demostrati
 
 ## Sugerencias Técnicas:
 
-que optimize el tiempo de en las actividades planeadas.
+Que optimize el tiempo de en las actividades planeadas, ya que pierde el tiempo en otras cosas.
 
 
 ### 💭 Conclusión
