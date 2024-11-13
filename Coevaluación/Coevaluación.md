@@ -13,7 +13,7 @@ En las conexiones las organiza bien y usa los componentes necesarios.
 
 ## Documentación:
 
-Explicaciones claras del funcionamiento de los codigos y videos demostrativos claros
+Explicaciones son claras paraa funcionamiento de los codigos y videos demostrativos son buenos
 
 ### 🔧 Áreas de Mejora
 
